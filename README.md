@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alejandro99apple
-- 👀 I’m interested web programming
+- 👀 I’m interested in web programming
 - 🌱 I’m currently learning JavaScript
 - 📫 You can find me on Instagram like @ale_dmontes
 
