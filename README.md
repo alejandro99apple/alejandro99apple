@@ -2,7 +2,7 @@
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning JavaScript
 - 📫 You can find me on Instagram like <a hreh="https://instagram.com/ale_dmontes">@ale_dmontes</a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss">hola</a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss">@ale_dmontes</a>
 <!---
 alejandro99apple/alejandro99apple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
