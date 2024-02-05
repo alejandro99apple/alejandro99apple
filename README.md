@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
     <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href=""><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
     <a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href=""><img alt="SQL" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
+    <a href=""><img alt="SQL" src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
 
 <p>
 
