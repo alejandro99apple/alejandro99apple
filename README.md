@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 ### 🧰 Frameworks and Libraries
 
 <p>
-     <a href="#"><img alt="Aungular" src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
+    <a href="#"><img alt="Aungular" src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
     <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"></a>
     <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
     <a href="#"><img alt="Chart.js" src="https://img.shields.io/badge/chart.js-F5788D.svg?logo=chart.js&logoColor=white"></a>
