@@ -16,6 +16,11 @@ You can click the Preview link to take a look at your changes.
     <a href=""><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
     <a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     <a href=""><img alt="SQL" src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
+    <a href=""><img alt="SQL" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"></a>
+    <a href=""><img alt="SQL" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
+    <a href=""><img alt="SQL" src="https://img.shields.io/badge/chart.js-F5788D.svg?logo=chart.js&logoColor=white"></a>
+    <a href=""><img alt="SQL" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"></a>
+    <a href=""><img alt="SQL" src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white"></a>
 
 <p>
 
