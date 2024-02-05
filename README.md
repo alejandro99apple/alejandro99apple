@@ -41,7 +41,8 @@ Hi, I'm Alejandro Díaz!
     <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href=""><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
     <a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href=""><img alt="SQL" src="https://img.shields.io/badge/-TypeScript-white?logo=typescript&link=https://github.com/BRdhanani"></a>
+    <a href=""><img alt="Cpp" src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white"></a>
+    <a href=""><img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-white?logo=typescript"></a>
    
 
 <p>
