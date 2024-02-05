@@ -29,7 +29,7 @@ Hi, I'm Alejandro Díaz!
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: JavaScript, PHP
 🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1w2Bq0Y5GjY8sZFM3nlJh7m7iZMyGgado/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
