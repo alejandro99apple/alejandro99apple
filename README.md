@@ -76,7 +76,7 @@ Hi, I'm Alejandro Díaz!
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-### 💻 Contact me
+### 👋 Contact me
 
 <p>
     <a href="#"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
