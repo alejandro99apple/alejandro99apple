@@ -22,12 +22,10 @@ You can click the Preview link to take a look at your changes.
 ### 🧰 Frameworks and Libraries
 
 <p>
-     <a href=""><img alt="SQL" src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
-    <a href=""><img alt="SQL" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"></a>
-    <a href=""><img alt="SQL" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
-    <a href=""><img alt="SQL" src="https://img.shields.io/badge/chart.js-F5788D.svg?logo=chart.js&logoColor=white"></a>
-    <a href=""><img alt="SQL" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"></a>
-    <a href=""><img alt="SQL" src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white"></a>
+     <a href="#"><img alt="Aungular" src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
+    <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"></a>
+    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>
+    <a href="#"><img alt="Chart.js" src="https://img.shields.io/badge/chart.js-F5788D.svg?logo=chart.js&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
    
 </p>
@@ -36,10 +34,8 @@ You can click the Preview link to take a look at your changes.
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
