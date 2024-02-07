@@ -18,9 +18,7 @@ Hi, I'm Alejandro Díaz!
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
-
 <hr>
-
 <pre>
 💻 I am a self taught Full Stack Developer
 📚 I have a Bachelors Degree in Telecommunications and Electronics Engineering from the Oriente University at Cuba.
