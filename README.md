@@ -89,8 +89,6 @@ Hi, I'm Alejandro Díaz!
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"></a>
 </p>
 
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <table>
