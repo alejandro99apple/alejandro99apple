@@ -43,7 +43,6 @@ Hi, I'm Alejandro Díaz!
     <a href=""><img alt="Cpp" src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white"></a>
     <a href=""><img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-white?logo=typescript"></a>
    
-
 <p>
 
 ### 🧰 Frameworks and Libraries
