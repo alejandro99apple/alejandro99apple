@@ -84,7 +84,7 @@ Hi, I'm Alejandro Díaz!
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
     <a href="https://wa.me/+5358552332"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"></a>
     <a href="#"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
-    <a href="#"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+    <a href="mailto:alejandro99apple@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
     <a href="#"><img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=flat-square&logo=messenger&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"></a>
 </p>
