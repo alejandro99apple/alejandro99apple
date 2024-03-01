@@ -81,7 +81,7 @@ Hi, I'm Alejandro Díaz!
     <a href="https://instagram.com/ale_dmontes?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
     <a href="#"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
     <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
+    <a href="https://github.com/alejandro99apple/alejandro99apple"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
     <a href="https://wa.me/+5358552332"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"></a>
     <a href="#"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
     <a href="mailto:alejandro99apple@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
