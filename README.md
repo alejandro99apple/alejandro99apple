@@ -5,9 +5,6 @@ Hi, I'm Alejandro Díaz!
 	</a>
 
 
-
-
-
 </h1>
 <p align="center">
 	<a href="https://github.com/alejandro99apple">
