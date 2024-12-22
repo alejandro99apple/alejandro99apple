@@ -38,7 +38,7 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Tienda inteligente</h3>
+<h3 align="center">IBM Full-Stack JavaScript Developer</h3>
 <div align="center">
 <a href="https://github.com/AprendeIngenia/Shopping-AI" target="_blank"><img src="https://github.com/AprendeIngenia/Shopping-AI/assets/85022752/4ef1e21b-4ffd-4cc3-a6ae-ffdcbd4a8d53"></a>
 <p>
