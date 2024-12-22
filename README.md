@@ -35,6 +35,43 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 </pre>
 <hr>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Tienda inteligente</h3>
+<div align="center">
+<a href="https://github.com/AprendeIngenia/Shopping-AI" target="_blank"><img src="https://github.com/AprendeIngenia/Shopping-AI/assets/85022752/4ef1e21b-4ffd-4cc3-a6ae-ffdcbd4a8d53"></a>
+<p>
+<a href="https://github.com/AprendeIngenia/Shopping-AI" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/vQzuX4yM64g?si=9xYwerc6Skljs0Zw)" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+<p>Aprende a programar una increíble <strong>tienda inteligente. </strong> Una clase de más de 1 hora donde te enseño a utilizar herramientas de inteligencia artificial y visión por computadora para crear tu propio sistema de reconocimiento de objetos y proceso de pago en <strong>Tiempo REAL</strong> con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Control de robot con gestos manuales</h3>
+<div align="center">                                       
+<a href="https://github.com/AprendeIngenia/car_gesture_control" target="_blank"><img src="https://github.com/AprendeIngenia/car_gesture_control/assets/85022752/6b1fa3fe-2245-483a-9c4c-c71d1cd12243"></a>
+<br>
+<p>
+<a href="https://github.com/AprendeIngenia/car_gesture_control" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-FF0000?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/SwyCJ9jCMXU?si=rYASrBqganBIg_Cp" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF0000">
+</a>
+</p>
+</p>Descubre cómo creamos un <strong>revolucionario sistema de control de robot</strong> que integra gestos de mano, mediapipe, comunicación serial y cable USB. En este video, te llevaremos detrás de cámaras para mostrarte cómo transformamos movimientos corporales en acciones de control de robot en tiempo real.</p>
+</div>                                                             
+</table>               
+
 ### 👨‍💻 Programming Languages
 
 <p>
