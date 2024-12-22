@@ -40,7 +40,7 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 <td width="50%">
 <h3 align="center">IBM Full-Stack JavaScript Developer</h3>
 <div align="center">
-<a href="https://github.com/AprendeIngenia/Shopping-AI" target="_blank"><img src="https://github.com/alejandro99apple/alejandro99apple/blob/hidden/Coursera%20fullstack_page-0001.jpg"></a>
+<a href="https://coursera.org/verify/professional-cert/LMQOYGWZM4DM" target="_blank"><img src="https://github.com/alejandro99apple/alejandro99apple/blob/hidden/Coursera%20fullstack_page-0001.jpg"></a>
 <p>
 <a href="https://github.com/AprendeIngenia/Shopping-AI" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
