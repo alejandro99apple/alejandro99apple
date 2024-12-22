@@ -53,9 +53,9 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 
 <td width="50%">
                <br>
-<h3 align="center">Control de robot con gestos manuales</h3>
+<h3 align="center">IBM Backend JavaScript Developer</h3>
 <div align="center">                                       
-<a href="https://github.com/AprendeIngenia/car_gesture_control" target="_blank"><img src="https://github.com/AprendeIngenia/car_gesture_control/assets/85022752/6b1fa3fe-2245-483a-9c4c-c71d1cd12243"></a>
+<a href="https://github.com/AprendeIngenia/car_gesture_control" target="_blank"><img src="https://github.com/alejandro99apple/Awards-Certifications/blob/main/IBM%20Back-end%20JavaScript.jpg"></a>
 <br>
 <p>
 <a href="https://github.com/AprendeIngenia/car_gesture_control" target="_blank">
