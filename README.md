@@ -43,9 +43,7 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 <a href="https://coursera.org/verify/professional-cert/LMQOYGWZM4DM" target="_blank"><img src="https://github.com/alejandro99apple/Awards-Certifications/blob/main/IBM%20Full-Stack%20JavaScript%20Developer.jpg"></a>
 <p>
 <a href="https://coursera.org/verify/professional-cert/LMQOYGWZM4DM">
-<img src="https://img.shields.io/badge/VERIFICAR-0056D2?style=for-the-badge&logo=coursera&logoColor=fff">
-<img src="https://img.shields.io/badge/Verify-0056D2?logo=coursera&logoColor=fff">
-	[![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)]
+<img src="https://img.shields.io/badge/VERIFY-0056D2?style=for-the-badge&logo=coursera&logoColor=fff">
 </a>
 </p>
 </div>
@@ -58,12 +56,10 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 <a href="https://github.com/AprendeIngenia/car_gesture_control" target="_blank"><img src="https://github.com/alejandro99apple/Awards-Certifications/blob/main/IBM%20Back-end%20JavaScript.jpg"></a>
 <br>
 <p>
-<a href="https://github.com/AprendeIngenia/car_gesture_control" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-FF0000?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://coursera.org/verify/professional-cert/GRS1NTVIFZBP" target="_blank">
+<img src="https://img.shields.io/badge/VERIFY-0056D2?style=for-the-badge&logo=coursera&logoColor=fff">
 </a>
-<a href="https://youtu.be/SwyCJ9jCMXU?si=rYASrBqganBIg_Cp" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF0000">
-</a>
+
 </p>
 </div>                                                             
 </table>               
