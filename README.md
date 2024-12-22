@@ -9,7 +9,7 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 
 </p>
 
-![VISION E INTELIGENCIA ARTIFICIAL](https://github.com/alejandro99apple/alejandro99apple/blob/hidden/i-get-my-cardio-from-running-code-3840x2160-18789.jpg)
+![I LOVE CODING](https://github.com/alejandro99apple/Awards-Certifications/blob/main/landing_image.jpg)
 
 
 <p align="center">
