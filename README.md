@@ -52,7 +52,6 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 </td>
 
 <td width="50%">
-               <br>
 <h3 align="center">IBM Backend JavaScript Developer</h3>
 <div align="center">                                       
 <a href="https://github.com/AprendeIngenia/car_gesture_control" target="_blank"><img src="https://github.com/alejandro99apple/Awards-Certifications/blob/main/IBM%20Back-end%20JavaScript.jpg"></a>
