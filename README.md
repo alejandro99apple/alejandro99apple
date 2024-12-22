@@ -46,7 +46,6 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar una increíble <strong>tienda inteligente. </strong> Una clase de más de 1 hora donde te enseño a utilizar herramientas de inteligencia artificial y visión por computadora para crear tu propio sistema de reconocimiento de objetos y proceso de pago en <strong>Tiempo REAL</strong> con todo el código disponible para descargar.</p>
 </div>
                                                                                       
 </td>
@@ -64,7 +63,6 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=FF0000">
 </a>
 </p>
-</p>Descubre cómo creamos un <strong>revolucionario sistema de control de robot</strong> que integra gestos de mano, mediapipe, comunicación serial y cable USB. En este video, te llevaremos detrás de cámaras para mostrarte cómo transformamos movimientos corporales en acciones de control de robot en tiempo real.</p>
 </div>                                                             
 </table>               
 
