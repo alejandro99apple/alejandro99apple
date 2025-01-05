@@ -63,8 +63,8 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 </p>
 </div>  
 </table> 
-<table> 
-<tr  width="50%">
+<table width="50vw> 
+<tr>
 <td width="50%">
 <h3 align="center">IBM Full-Stack JavaScript Developer</h3>
 <div align="center">
