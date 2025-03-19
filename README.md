@@ -4,7 +4,7 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 
 <p align="center">
 	<a href="https://github.com/alejandro99apple">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=MSc+student+in+Bioengineering+and+Intelligent+Computing;Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 
 </p>
