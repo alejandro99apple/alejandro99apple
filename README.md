@@ -59,7 +59,6 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 <h3 align="center">IBM Back-end JavaScript Developer</h3>
 <div align="center">                                       
 <a href="https://coursera.org/verify/professional-cert/GRS1NTVIFZBP" target="_blank"><img src="https://github.com/alejandro99apple/Awards-Certifications/blob/main/IBM%20Back-end%20JavaScript.jpg"></a>
-<br>
 <p>
 <a href="https://coursera.org/verify/professional-cert/GRS1NTVIFZBP" target="_blank">
 <img src="https://img.shields.io/badge/VERIFY-0056D2?style=for-the-badge&logo=coursera&logoColor=fff">
