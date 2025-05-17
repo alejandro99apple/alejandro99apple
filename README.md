@@ -52,7 +52,7 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 				</p>
 			</div>
                                                                                       
-		
+		</td>
 
 <td width="50%">
 <h3 align="center">IBM Back-end JavaScript Developer</h3>
