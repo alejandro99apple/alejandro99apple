@@ -87,7 +87,7 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 <a href="https://conocer.gob.mx/renap/certificaciones/DIMA991002HNEZNL09" target="_blank"><img src="https://github.com/alejandro99apple/Awards-Certifications/blob/main/EDUIT-Aprendiendo%20a%20Programar%20Apps.jpg"></a>
 <p>
 <a href="https://conocer.gob.mx/renap/certificaciones/DIMA991002HNEZNL09">
-<img src="https://img.shields.io/badge/VERIFY-0056D2?style=for-the-badge&logo=coursera&logoColor=fff">
+<img src="https://img.shields.io/badge/VERIFY-aa483c?style=for-the-badge&logo=coursera&logoColor=fff">
 </a>
 </p>
 </div>
