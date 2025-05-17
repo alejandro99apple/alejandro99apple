@@ -57,7 +57,7 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 <td width="50%">
 <h3 align="center">IBM Back-end JavaScript Developer</h3>
 <div align="center">                                       
-<a href="https://github.com/AprendeIngenia/car_gesture_control" target="_blank"><img src="https://github.com/alejandro99apple/Awards-Certifications/blob/main/IBM%20Back-end%20JavaScript.jpg"></a>
+<a href="https://coursera.org/verify/professional-cert/GRS1NTVIFZBP" target="_blank"><img src="https://github.com/alejandro99apple/Awards-Certifications/blob/main/IBM%20Back-end%20JavaScript.jpg"></a>
 <br>
 <p>
 <a href="https://coursera.org/verify/professional-cert/GRS1NTVIFZBP" target="_blank">
