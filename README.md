@@ -81,11 +81,11 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 </div>
 
 <td width="50%">
-<h3 align="center">IBM Full-Stack JavaScript Developer</h3>
+<h3 align="center">IBM Computer Vision and Image Processing</h3>
 <div align="center">
-<a href="https://coursera.org/verify/professional-cert/LMQOYGWZM4DM" target="_blank"><img src="https://github.com/alejandro99apple/Awards-Certifications/blob/main/IBM%20Full-Stack%20JavaScript%20Developer.jpg"></a>
+<a href="https://coursera.org/share/2f2a2f82ba197bbc893579693a742ca6" target="_blank"><img src="https://github.com/alejandro99apple/Awards-Certifications/blob/main/IBM%20Introduction%20to%20Computer%20Vision%20and%20Image%20Processing_page-0001.jpg"></a>
 <p>
-<a href="https://coursera.org/verify/professional-cert/LMQOYGWZM4DM">
+<a href="https://coursera.org/share/2f2a2f82ba197bbc893579693a742ca6">
 <img src="https://img.shields.io/badge/VERIFY-0056D2?style=for-the-badge&logo=coursera&logoColor=fff">
 </a>
 </p>
