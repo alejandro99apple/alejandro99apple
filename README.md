@@ -27,7 +27,7 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 <hr>
 <pre>
 💻 I am a self taught Full Stack Developer
-📚 I have a Bachelors Degree in Telecommunications and Electronics Engineering from the Oriente University at Cuba.
+📚 I hold a Bachelors Degree in Telecommunications and Electronics Engineering from the Oriente University at Cuba.
 📝 I have a strong interest in Web Programming and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
@@ -127,11 +127,11 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
     <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href=""><img alt="Python" src="https://img.shields.io/badge/-Python-white?logo=python"></a>
     <a href=""><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
     <a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     <a href=""><img alt="Cpp" src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white"></a>
     <a href=""><img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-white?logo=typescript"></a>
-    <a href=""><img alt="Python" src="https://img.shields.io/badge/-Python-white?logo=python"></a>
    
 <p>
 
