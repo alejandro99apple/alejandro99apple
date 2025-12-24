@@ -10,7 +10,6 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 </p>
 
 
-
 ![I LOVE CODING](https://github.com/alejandro99apple/Awards-Certifications/blob/main/landing_image.jpg)
 
 
