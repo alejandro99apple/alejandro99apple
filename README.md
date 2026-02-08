@@ -34,7 +34,7 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: JavaScript, PHP, Python
 🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1o9ktYDFN2wJCsPZ1FbayjZWRfn5Ovdcl/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1VpXzj2ytSnBbowoeEal2pr3-Ydb-Bbu2/view?usp=sharing">MY RESUME.</a>
 </pre>
 <hr>
 
