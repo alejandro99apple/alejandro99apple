@@ -171,7 +171,7 @@ Hi, I'm Alejandro Diaz M.<a href="https://github.com/alejandro99apple" target="_
     <a href="#"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/alejandrodiazmonstesdeoca/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
     <a href="https://github.com/alejandro99apple"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
-    <a href="https://wa.me/+5358552332"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"></a>
+    <a href="https://wa.me/+523345997156"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"></a>
     <a href="https://t.me/Xxyumi_jomixX"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
     <a href="mailto:alejandro99apple@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
     <a href="#"><img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=flat-square&logo=messenger&logoColor=white"></a>
