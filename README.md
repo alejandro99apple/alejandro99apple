@@ -30,7 +30,7 @@ Hi, I'm Alejandro Diaz Montes de Oca<a href="https://github.com/alejandro99apple
 📚 I hold a Bachelors Degree in Telecommunications and Electronics Engineering from the Oriente University at Cuba.
 📝 I have a strong interest in Web Programming and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
+🌱 Learning about Computer Vision and Machine Learning
 🌟 Main languages: JavaScript, PHP, Python
 🚩 Interested in Full Stack Machine Learning Application development
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1VpXzj2ytSnBbowoeEal2pr3-Ydb-Bbu2/view?usp=sharing">MY RESUME.</a>
