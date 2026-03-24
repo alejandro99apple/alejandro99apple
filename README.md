@@ -10,7 +10,6 @@ Hi, I'm Alejandro Diaz Montes de Oca<a href="https://github.com/alejandro99apple
 </p>
 
 
-
 ![I LOVE CODING](https://github.com/alejandro99apple/Awards-Certifications/blob/main/landing_image.jpg)
 
 
